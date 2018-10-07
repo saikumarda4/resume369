@@ -28,6 +28,9 @@ public class EmployeeController {
 	@RequestMapping("/" )
 	public ModelAndView home()
 	{
+		System.out.println("++++++++++++index called++++++++++++++++++++++");
+		System.out.println("++++++++++++index called++++++++++++++++++++++");
+		System.out.println("++++++++++++index called++++++++++++++++++++++");
 		return new ModelAndView("register", "reg", new Employee());
 	}
 	

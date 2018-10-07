@@ -20,10 +20,10 @@
 
 
   <div class="form">
+  	<label>Resume9</label>
      <h3><center><font color='#ffffff'>${message}</font></center></h3>
      <br> 
       <ul class="tab-group">
-        
         <li class="tab active"><a href="#login">Log In</a></li>
         <li class="tab"><a href="#signup">Register</a></li>
       </ul>
