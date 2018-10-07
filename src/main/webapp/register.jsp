@@ -20,7 +20,7 @@
 
 
   <div class="form">
-  	<label>Resume9</label>
+  	<label><center>Resume9</center></label>
      <h3><center><font color='#ffffff'>${message}</font></center></h3>
      <br> 
       <ul class="tab-group">
